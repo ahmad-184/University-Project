@@ -1,0 +1,171 @@
+@media screen and (min-width: 455px) {
+    .container-form-input{
+        margin-bottom: 0px !important;
+    }
+    .container-nav-header{
+        width: fit-content !important;
+    }
+}
+@media screen and (min-width: 576px) {
+    /* .header-email-call-contact{
+        width: 50% !important;
+    } */
+    form input[type=search]{
+        width: 20rem;
+    }
+}
+@media screen and (max-width: 768px) {
+    #navbar .container-header .header-contact .header-container-link{
+        padding-bottom: 10px;
+    }
+    .services-content{
+        width: 25%;
+    }
+    .counter-container-top-img{
+        height: 300px !important;
+    }
+}
+@media screen and (min-width: 768px) {
+    .header-email-call-contact,.header-container-link{
+        width: 33.33% !important;
+    }
+    .header-email-call-contact{
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+    }
+    .container-text-home-overlay{
+        text-align: left !important;
+    }
+    .services-content{
+        width: 25% !important;
+    }
+    #home-ovelay .container-bg-img .home-overlay .container-text-home-overlay h1{
+        width: 28rem;
+    }
+    #home-ovelay .container-bg-img .home-overlay .container-text-home-overlay p{
+        width: 70%;
+    }
+    #services .services-container .services-content .single-services p{
+        padding-bottom: 0 !important;
+    }
+    .about-content-text{
+        width: 58.31% !important;
+    }
+    .about-content-img{
+        display: block !important;
+    }
+    .counter-container-top-img,.counter-content-top-text{
+        width: 50% !important;
+    }
+    .single-number{
+        width: 25% !important;
+    }
+    .courses-title{
+        width: 66% !important;
+    }
+    .card-courses{
+        width: 25% !important;
+    }
+    #courses .courses-section .courses-title h1{
+        font-size: 43px !important;
+        
+    }
+    .card-teachers{
+        width: 50% !important;
+    }
+    .teachers-section-title h1{
+        font-size: 41px !important;
+    }
+    .card-teachers-img-1,.card-teachers-img-2,.card-teachers-img-3,.card-teachers-img-4{
+        background-position: center !important;
+    }
+    .big-section-form-form{
+        justify-content: end !important;
+    }
+    .big-section-form-form-container{
+        width: 50% !important;
+    }
+    #big-section #big-section-form .big-section-form-form .big-section-form-form-container .big-section-form-form-form-main form section div{
+        width: 50% !important;
+    }
+    .blog-single-card{
+        width: 50% !important;
+    }
+    #big-section #blog .blog-container .blog-title p{
+        width: 70% !important;
+        margin: 0 auto;
+    }
+    #big-section #blog .blog-container .blog-title h1,#slider .slider-title h1{
+        font-size: 43px !important;
+    }
+    #slider .slider-title p{
+        width: 70% !important;
+        margin: 0 auto;
+    }
+    .slider-card{
+        width: 50% !important;
+    }
+    .image-content{
+        width: 25% !important;
+    }
+    .blog,.questions,.link,.subscribe{
+        width: 50% !important;
+    }
+}
+@media screen and (max-width: 992px) {
+    .section-navbar-bottom{
+        background-color: var(--color-blue-dark);
+    }
+}
+@media screen and (min-width: 992px) {
+    .container-navbar-logo {
+        width: 50% !important;
+    }
+    .container-header{
+        flex-wrap: nowrap;
+    }
+    .nav-header{
+        display: block !important;
+    }
+    .container-icon-menu-bar{
+        display: none;
+    }
+    .container-bg-img{
+        background-position: inherit !important;
+    }
+    #home-ovelay .container-bg-img .home-overlay .container-text-home-overlay h1{
+        font-size: 47px;
+        width: 28rem;
+    }
+    .card-about{
+        width: 50% !important;
+    }
+    .counter-content-top-text{
+        padding-left: 3rem;
+    }
+    .card-teachers{
+        width: 25% !important;
+    }
+    .blog-single-card{
+        width: 33.33% !important;
+    }
+    #slider .slider-title p{
+        width: 50% !important;
+        margin: 0 auto;
+    }
+    .blog,.questions,.link,.subscribe{
+        width: 25% !important;
+    }
+    #big-section .teachers-section-container .teachers-section-title p{
+        width: 65% !important;
+        margin: auto !important;
+    }
+}
+@media screen and (min-width: 1200px) {
+
+}
+@media screen and (min-width: 1400px) {
+    .slider-card{
+        width: 25% !important;
+    }
+}
